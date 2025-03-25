@@ -22,5 +22,5 @@ This repository contains solutions for the **CloudVandana Associate Software Eng
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/cloudvandana-assignment.git
+git clone https://github.com/thevickykumar/cloudvandana-assignment.git
 cd cloudvandana-assignment
